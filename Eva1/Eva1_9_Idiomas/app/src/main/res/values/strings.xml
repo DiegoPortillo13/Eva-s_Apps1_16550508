@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Eva1_9_Idiomas</string>
+
+    <string name="txt_Idioma_es">Idioma:</string>
+    <string name="btn_ES_es">Español</string>
+    <string name="btn_EN_es">Ingles</string>
+    <string name="txt_Nom_es">Nombre:</string>
+    <string name="txt_Ap_es">Apellido:</string>
+    <string name="h_Nom_es">Introduce tu nombre</string>
+    <string name="h_Ap_es">Introduce tu apellido</string>
+    <string name="txt_Gen_es">Genero:</string>
+    <string name="btn_H_es">Hombre</string>
+    <string name="btn_M_es">Mujer</string>
+    <string name="btn_o_es">Otro</string>
+
+    <string name="txt_Idioma">Language</string>
+    <string name="btn_ES">Spanish</string>
+    <string name="btn_EN">English</string>
+    <string name="txt_Nom">First name:</string>
+    <string name="txt_Ap">Last name:</string>
+    <string name="h_Nom">Introduce your first name</string>
+    <string name="h_Ap">Introduce yout last name</string>
+    <string name="txt_Gen">Gender:</string>
+    <string name="btn_H">Man</string>
+    <string name="btn_M">Woman</string>
+    <string name="btn_o">Other</string>
+
+</resources>
